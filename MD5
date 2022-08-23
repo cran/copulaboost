@@ -1,0 +1,11 @@
+32596cd3b179b9f0a923bbc097ed1efe *DESCRIPTION
+458350596f8e2d08db839fc5402549f8 *LICENCE
+2aab24d2e6f2c8a75094c539a8da7111 *NAMESPACE
+2114dcee8d563d48cc7fd3d970bf566e *R/copulaboost.R
+f4e716c38a1c9c3ed98cd235efa0a45a *R/copulareg.R
+80a85194694e072cde84cbdf6a5b68ea *R/cov_selection.R
+bdb00318ba2551840ad75739f32f47f3 *R/utils.R
+ee61d8c6769228722646b495cf441246 *man/copulaboost.Rd
+e12455528a3d0a1da4614be541f25e4b *man/copulareg.Rd
+4738b7cee04b325b5d3f6bcd228d918f *man/predict.copulaboost.Rd
+1adac4adef38ee7d92239772a069072d *man/predict.copulareg.Rd

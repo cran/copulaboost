@@ -1,0 +1,4 @@
+export(copulaboost)
+export(copulareg)
+S3method(predict, copulaboost)
+S3method(predict, copulareg)
